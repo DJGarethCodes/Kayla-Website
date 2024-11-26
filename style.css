@@ -1,0 +1,45 @@
+.font {
+    font-family: serif;
+    font-size: medium;
+}
+
+.Gcodes {
+  font-size: small;
+}
+
+.intro {
+  background-color: #FFF6EA;
+  font-size: medium;
+}
+
+.company {
+  color: #808080;
+}
+
+.grid {
+  display: flex;
+  padding-bottom: 100px;
+  gap: 10px;
+}
+
+.reviews {
+  background-color: #f5f4f4;
+  text-align: center;
+  height: 6vh;
+  margin-top: 20vh;
+  max-height: 6vh;
+}
+
+.experience {
+  background-color: #f5f4f4;
+  background-image: url(./Testimonial\ background.png);
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
